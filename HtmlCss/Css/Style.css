@@ -1,0 +1,29 @@
+.cabecera{
+background-color: rgb(17, 124, 88);
+height: 50px;
+text-align: center;
+font-size: 40px;
+color: white;
+}
+.lado-izquerida{
+    padding-top: 12px;
+    float: left;
+    width: 30%;
+}
+.lado-derecha{
+    padding-top: 12px;
+    float: left;
+    width: 70%;
+}
+.titulo{
+    background-color: #009688;
+    color: white;
+    height: 30px;
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 5px;
+    border-radius: 12px;
+}
+.informacion{
+    padding-left: 25px;
+}
